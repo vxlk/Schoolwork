@@ -1,0 +1,7 @@
+schilleter_dining_hall 34.6769 -82.8329
+clemson_exchange 34.6761 -82.8313
+twisted_taco 34.6794 -82.8395
+starbucks 34.6768 -82.8366
+wendy's 34.6771 -82.833
+einstein_bros 34.6763 -82.8319
+fernow_st_cafe 34.6766 -82.8381

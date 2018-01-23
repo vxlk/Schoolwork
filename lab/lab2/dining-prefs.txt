@@ -1,0 +1,5 @@
+"Tyler Small" likes "Olive Garden"
+"Tyler Small" likes "Longhorn Steakhouse"
+"Tyler Small" likes "Wendy's"
+"Tyler Small" likes "Portillos"
+"Tyler Small" likes "Potbelly's"

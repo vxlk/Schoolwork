@@ -1,0 +1,12 @@
+littlejohn_collosium 34.6804 -82.8464
+academic_success_center 34.6758 -82.8358
+tillman_hall 34.68 -82.8373
+fort_hill 34.678 -82.839
+president's_home 34.6784 -82.8309
+brooks_center 34.6736 -82.8361
+amphitheater 34.6783 -82.8362
+fike_recreation_center 34.6807 -82.842
+death_valley 34.6788 -82.8432
+redfern 34.6759 -82.8336
+mcadams_hall 34.6759 -82.8345
+botanical_gardens 34.6738 -82.8239
